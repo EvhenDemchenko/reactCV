@@ -1,0 +1,18 @@
+header {
+  padding: 20px;
+
+}
+
+.inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  .name {
+  }
+
+  .meimg {
+    border: 1px solid transparent;
+    border-radius: 50%;
+  }
+}

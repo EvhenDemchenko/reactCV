@@ -1,0 +1,13 @@
+.aboutMe {
+  padding-left: 20px;
+  height: 35px;
+  .item {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    p {
+      opacity:  0.5;
+    }
+  }
+}
+
