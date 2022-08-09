@@ -1,10 +1,9 @@
-import aboutme from './aboutme.module.scss';
+import aboutMe from './aboutme.module.scss';
 
 const AboutMe = ({data}) => {
-
     return (
-     <div className={aboutme.aboutMe}>
-         <div className={aboutme.item}>
+     <div className={aboutMe.aboutMe}>
+         <div className={aboutMe.item}>
              <p>
                  {data.title}
              </p>

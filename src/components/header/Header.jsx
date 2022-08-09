@@ -1,7 +1,7 @@
 import header from './header.module.scss'
 
-const Header = () =>{
-    return(
+const Header = () => {
+    return (
         <header>
             <div className={header.inner}>
                 <h1 className={header.name}>
